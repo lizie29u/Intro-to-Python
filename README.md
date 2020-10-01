@@ -6,7 +6,7 @@ In this project I am creating a Python script for analyzing the financial record
 
 I loaded the data from the provided csv file called "budget_data.csv". 
 
-### Anlysis
+### Analysis
 After analysing the data, following is the results:
 
 
